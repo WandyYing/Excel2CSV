@@ -1,7 +1,7 @@
 Excel2CSV
 =========
 
-Excel2CSV. Support multiple sheets
+Excel2CSV. Add to support multiple sheets
 
 Just for MARK. This code is to modify other.
 
