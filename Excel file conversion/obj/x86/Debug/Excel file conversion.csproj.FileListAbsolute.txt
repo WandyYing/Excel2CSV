@@ -1,0 +1,12 @@
+C:\Users\yingju\Downloads\Excel file conversion\bin\Debug\test.exe.config
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\Excel file conversion.csproj.ResolveComReference.cache
+C:\Users\yingju\Downloads\Excel file conversion\bin\Debug\Excel.dll
+C:\Users\yingju\Downloads\Excel file conversion\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\Excel file conversion.csprojResolveAssemblyReference.cache
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\test.Form1.resources
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\Excel file conversion.csproj.GenerateResource.Cache
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\test.exe
+C:\Users\yingju\Downloads\Excel file conversion\obj\x86\Debug\test.pdb
+C:\Users\yingju\Downloads\Excel file conversion\bin\Debug\test.exe
+C:\Users\yingju\Downloads\Excel file conversion\bin\Debug\test.pdb
